@@ -5,5 +5,5 @@ HW1 個人履歷
 ---
 [HW1 個人履歷](https://teyycu12.github.io/choutingyi/ "游標顯示")
 ---
-HW2
+HW2 React&JavaScript
 ---
