@@ -1,0 +1,104 @@
+/* 設定頁面全局的樣式 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #4b3832; /* 深棕色背景 */
+    color: #fff7e6; /* 米白色文字 */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  /* 主要遊戲容器的樣式 */
+  .game-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 90vh; /* 高度設定 */
+    width: 100%;
+    max-width: 600px; /* 調整容器寬度 */
+    background-color: #8d5524; /* 咖啡色背景 */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* 各部分的基本樣式 */
+  .section {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  /* 主標題和副標題樣式 */
+  .title-section h1 {
+    font-size: 2.5rem;
+    color: #d9bf77; /* 金黃色 */
+    margin-bottom: 10px;
+  }
+  
+  .title-section h2 {
+    font-size: 1.5rem;
+    color: #f1e3c6; /* 米黃色 */
+    margin-bottom: 20px;
+  }
+  
+  /* 顯示範圍樣式 */
+  .range-section p {
+    font-size: 1.2rem;
+    color: #fff7e6;
+  }
+  
+  /* 輸入框樣式，放大處理 */
+  .input-section .input {
+    padding: 15px;
+    width: 150px;
+    font-size: 1.5rem;
+    margin-top: 10px;
+    margin-bottom: 10px; /* 將底部的 margin 設為 0 */
+    border: 2px solid #d9bf77; /* 金黃色邊框 */
+    border-radius: 5px;
+    background-color: #fff7e6; /* 米白色輸入框背景 */
+    color: #4b3832; /* 深棕色字體 */
+  }
+  
+  /* 按鈕樣式 */
+  .button {
+    background-color: #6f4e37; /* 深咖啡色 */
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.2rem;
+    margin-top: 0; /* 將上邊距設為 0 */
+    margin-left: 5px; /* 設定左邊距以保持 0.5 公分距離（約 5px） */
+  }
+  
+  .button:hover {
+    background-color: #5a3e2b; /* 更深的咖啡色 */
+  }
+  
+  /* 猜測紀錄樣式 */
+  .history-section h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    color: #d9bf77; /* 金黃色 */
+  }
+  
+  .guess-history {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .guess-history li {
+    font-size: 1.2rem;
+    padding: 5px 0;
+    color: #fff7e6;
+  }
+  

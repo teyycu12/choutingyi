@@ -1,0 +1,103 @@
+/* 設定頁面全局的樣式 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #3e2723; /* 深咖啡色背景 */
+  color: #fff7e6; /* 米白色文字 */
+  display: flex;
+  flex-direction: column; /* 垂直排列 */
+  justify-content: flex-start; /* 頂部對齊 */
+  align-items: center; /* 水平置中 */
+  min-height: 100vh; /* 讓頁面至少佔滿視窗高度 */
+  overflow-y: auto; /* 允許垂直滾動 */
+  padding: 20px; /* 增加內邊距 */
+}
+
+/* 各部分的基本樣式 */
+.section {
+  text-align: center;
+  margin-bottom: 10px;
+  width: 100%; /* 使每個部分的寬度占滿 */
+  max-width: 600px; /* 設置最大寬度 */
+}
+
+/* 主標題和副標題樣式 */
+.title-section h1 {
+  font-size: 2.5rem;
+  color: #fff7e6; /* 米白色文字 */
+  margin-bottom: 10px;
+}
+
+.title-section h2 {
+  font-size: 1.5rem;
+  color: #fff7e6; /* 米白色文字 */
+  margin-bottom: 20px;
+}
+
+/* 顯示範圍樣式 */
+.range-section p {
+  font-size: 1.2rem;
+  color: #fff7e6; /* 米白色文字 */
+}
+
+/* 輸入框樣式，放大處理 */
+.input-section {
+  display: flex; /* 使用 flexbox 來排列輸入框和按鈕 */
+  flex-direction: column; /* 垂直排列 */
+  align-items: center; /* 置中對齊 */
+}
+
+.input-section .input {
+  padding: 15px;
+  width: 150px;
+  font-size: 1.5rem;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 2px solid #f1e3c6; /* 米白色邊框 */
+  border-radius: 5px;
+  background-color: #fff7e6; /* 米白色輸入框背景 */
+  color: #4b3832; /* 深棕色字體 */
+}
+
+/* 按鈕樣式 */
+.button {
+  background-color: #6f4e37; /* 深咖啡色 */
+  color: white;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1.2rem;
+  margin-top: 10px; /* 讓按鈕與輸入框之間保持距離 */
+}
+
+.button:hover {
+  background-color: #5a3e2b; /* 更深的咖啡色 */
+}
+
+/* 猜測紀錄樣式 */
+.history-section {
+  margin-top: 20px; /* 在猜測紀錄和輸入框之間留出一些距離 */
+}
+
+.history-section h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  color: #fff7e6; /* 米白色文字 */
+}
+
+.guess-history {
+  list-style: none;
+  padding: 0;
+}
+
+.guess-history li {
+  font-size: 1.2rem;
+  padding: 5px 0;
+  color: #fff7e6; /* 米白色文字 */
+}
