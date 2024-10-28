@@ -2,4 +2,4 @@
 ## HW1 個人網站
 ### https://teyycu12.github.io/choutingyi/
 ## HW2 Reacct
-###
+### 介紹影片https://drive.google.com/file/d/1qrQX9JW6HJgRu4c5zIeeSYFjIDXehZCo/view?usp=drivesdk
