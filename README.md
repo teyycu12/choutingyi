@@ -9,3 +9,4 @@ https://teyycu12.github.io/choutingyi/
 介紹影片：https://drive.google.com/file/d/1qrQX9JW6HJgRu4c5zIeeSYFjIDXehZCo/view?usp=drivesdk  
 Chatgpt訪問紀錄：https://chatgpt.com/share/6713e1d1-09c0-8007-8b70-1684d0009724
 ## HW 3 範例專案&期末發想
+介紹簡報：https://drive.google.com/file/d/173H8k7COweziNIQWr5WuPUMEICAblOGv/view?usp=sharing
