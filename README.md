@@ -4,7 +4,7 @@
 * 系級：科技系116
 # 作業連結
 ## HW1 個人網站
-
+已評分，但此readme內容先前不見，已找不到此檔案，故無網址
 ## HW2 React網頁應用
 ### 實作影片 https://drive.google.com/file/d/1qrQX9JW6HJgRu4c5zIeeSYFjIDXehZCo/view?usp=sharing
 ### chatgpt訪問紀錄 https://chatgpt.com/share/6713e1d1-09c0-8007-8b70-1684d0009724
