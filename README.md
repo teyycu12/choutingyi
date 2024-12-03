@@ -6,14 +6,14 @@
 ## HW1 個人網站
 已評分，但此readme內容先前不見，已找不到此檔案，故無網址
 ## HW2 React網頁應用
-### 實作影片 https://drive.google.com/file/d/1qrQX9JW6HJgRu4c5zIeeSYFjIDXehZCo/view?usp=sharing
-### chatgpt訪問紀錄 https://chatgpt.com/share/6713e1d1-09c0-8007-8b70-1684d0009724
+實作影片 https://drive.google.com/file/d/1qrQX9JW6HJgRu4c5zIeeSYFjIDXehZCo/view?usp=sharing
+chatgpt訪問紀錄 https://chatgpt.com/share/6713e1d1-09c0-8007-8b70-1684d0009724
 
 ## HW3 專題發想
-### 簡報網址 https://drive.google.com/file/d/19eASdd1W4iZ3qpFX4u9BH2NsH3MkJ0Nv/view?usp=sharing
+簡報網址 https://drive.google.com/file/d/19eASdd1W4iZ3qpFX4u9BH2NsH3MkJ0Nv/view?usp=sharing
 
 ## 網址部署
-### 實作網址 https://reactgames-1.onrender.com
-### 實作程式碼 https://github.com/teyycu12/reactgames
+實作網址 https://reactgames-1.onrender.com
+實作程式碼 https://github.com/teyycu12/reactgames
 
 
