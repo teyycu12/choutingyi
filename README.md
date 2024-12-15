@@ -10,7 +10,7 @@
 * chatgpt訪問紀錄 https://chatgpt.com/share/6713e1d1-09c0-8007-8b70-1684d0009724
 ## HW3 範例專案&專題發想結合
 * 簡報網址 https://drive.google.com/file/d/173H8k7COweziNIQWr5WuPUMEICAblOGv/view?usp=sharing
-* 影片網址 
+* 影片網址 https://drive.google.com/file/d/1pGZSAMS5-OpWKId5Opi3Gk5LiOlDxxbW/view?usp=sharing
 ## HW4 網址部署
 * 實作網址 https://reactgames-1.onrender.com
 * 實作程式碼 https://github.com/teyycu12/reactgames
