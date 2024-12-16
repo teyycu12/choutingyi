@@ -16,6 +16,6 @@
 * 實作程式碼 https://github.com/teyycu12/moodleplatform
 # 專題
 * 實作程式碼 https://github.com/gwen1008/Unisync
-* 雲端部署網址 [https://moodleplatform-5.onrender.com](https://one13120241216-unisynic.onrender.com/dashboard)
+* 雲端部署網址 https://one13120241216-unisynic.onrender.com/
 
 
